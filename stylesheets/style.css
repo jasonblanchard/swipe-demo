@@ -1,0 +1,12 @@
+body {
+  font-family: 'Helvetica Neue', 'sans-serif';
+}
+
+.box {
+  background: blue;
+  height: 100px;
+}
+
+.nav {
+  display: none;
+}
